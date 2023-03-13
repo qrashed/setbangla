@@ -1,0 +1,10 @@
+splash
+login xml
+home fragment--line 152,153
+string--app name -- api link
+survey page
+gradel--id
+web link -menu--FragmentDrawer-- line no : 306
+fragment_navigation_drawer--drawer logo/main drawer logo change
+app icon- mainfest file
+
